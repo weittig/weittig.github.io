@@ -1,8 +1,91 @@
-<p>This is weittig</p>
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weittig's Homepage</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-<p>You can find nothing on</p>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+        }
 
-<ul>
-  <li> <a href="https://weittig.github.io/">github</a> </li>
-  
-</ul>
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .name {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: #2c3e50;
+        }
+
+        .description {
+            font-size: 1.2rem;
+            color: #666;
+            margin-bottom: 2rem;
+        }
+
+        .links {
+            list-style: none;
+        }
+
+        .links li {
+            margin-bottom: 1rem;
+        }
+
+        .links a {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            background-color: #2c3e50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .links a:hover {
+            background-color: #34495e;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 1rem;
+            }
+            
+            .name {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1 class="name">Weittig</h1>
+            <p class="description">Welcome to my personal homepage</p>
+        </header>
+        
+        <ul class="links">
+            <li>
+                <a href="https://weittig.github.io/">GitHub</a>
+            </li>
+        </ul>
+    </div>
+</body>
+</html> 
