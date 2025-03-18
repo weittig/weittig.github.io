@@ -8,8 +8,9 @@ document.addEventListener('DOMContentLoaded', () => {
           <img src="https://placehold.co/400x400?text=Your+Photo" alt="Your Photo" class="profile-img">
           <div class="header-content">
             <h1>weittig</h1>
-            <p><strong>weittig's homepage</strong> <a href="https://hyxt.whu.edu.cn/">Hongyi Honor College</a> 
-            <a href="https://en.whu.edu.cn/">Wuhan University</a></p>
+            <p><strong>Senior Student</strong><p>
+            <p><a href="https://hyxt.whu.edu.cn/">Hongyi Honor College</a><p>
+            <p><a href="https://en.whu.edu.cn/">Wuhan University</a></p>
             <p><strong>Email</strong>: weitiangao@whu.edu.cn</p>
             <div class="social-links">
               [<a href="https://github.com/weittig">Github</a>]
