@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (app) {
       app.innerHTML = `
         <div class="header">
-          <img src="src/img/XiaoCai.jpg" alt="Your Photo" class="profile-img">
+          <img src="https://raw.githubusercontent.com/weittig/weittig.github.io/main/src/img/XiaoCai.jpg" alt="Your Photo" class="profile-img">
           <div class="header-content">
             <h1>weittig</h1>
             <p><strong>Senior Student</strong><p>
