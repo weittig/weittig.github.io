@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
           <img src="https://placehold.co/400x400?text=Your+Photo" alt="Your Photo" class="profile-img">
           <div class="header-content">
             <h1>Your Name</h1>
-            <p><strong>Your Title</strong> <a href="#">Your School/Department</a> <a href="#">Your University/Company</a></p>
-            <p><strong>Email</strong>: your.email@example.com</p>
+            <p><strong>weittig's homepage</strong> <a href="#">Your School/Department</a> <a href="#">Wuhan University</a></p>
+            <p><strong>Email</strong>: weitiangao@whu.edu.cn</p>
             <div class="social-links">
               [<a href="#">Github</a>]
               [<a href="#">LinkedIn</a>]
@@ -20,14 +20,12 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
   
         <h2>Biography</h2>
-        <p>Write a brief introduction about yourself here. Describe your academic background, research interests, or professional experience. Make it concise yet informative to give visitors a good understanding of who you are and what you do.</p>
+        <p> a senior student in Hongyi Honor College of Wuhan University.</p>
   
         <h2>Recent News</h2>
         <ul class="news-list">
-          <li>[MM/YYYY] Your most recent news or achievement.</li>
-          <li>[MM/YYYY] Another recent accomplishment or update.</li>
-          <li>[MM/YYYY] An award, publication, or other significant event.</li>
-          <li>[MM/YYYY] Any other news you'd like to highlight.</li>
+          <li>[01/2025] Your most recent news or achievement.</li>
+        
         </ul>
   
         <h2>Research</h2>
@@ -136,7 +134,7 @@ document.addEventListener('DOMContentLoaded', () => {
         </ul>
   
         <div class="footer">
-          <p>© 2025 Your Name. All rights reserved.</p>
+          <p>©weittig. All rights reserved.</p>
         </div>
       `;
     }
