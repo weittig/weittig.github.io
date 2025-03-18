@@ -7,11 +7,12 @@ document.addEventListener('DOMContentLoaded', () => {
         <div class="header">
           <img src="https://placehold.co/400x400?text=Your+Photo" alt="Your Photo" class="profile-img">
           <div class="header-content">
-            <h1>Your Name</h1>
-            <p><strong>weittig's homepage</strong> <a href="#">Your School/Department</a> <a href="#">Wuhan University</a></p>
+            <h1>weittig</h1>
+            <p><strong>weittig's homepage</strong> <a href="https://hyxt.whu.edu.cn/">Hongyi Honor College</a> 
+            <a href="https://en.whu.edu.cn/">Wuhan University</a></p>
             <p><strong>Email</strong>: weitiangao@whu.edu.cn</p>
             <div class="social-links">
-              [<a href="#">Github</a>]
+              [<a href="https://github.com/weittig">Github</a>]
               [<a href="#">LinkedIn</a>]
               [<a href="/CV_YourName.pdf">CV</a>]
               [<a href="#">Google Scholar</a>]
@@ -20,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
   
         <h2>Biography</h2>
-        <p> a senior student in Hongyi Honor College of Wuhan University.</p>
+        <p> A senior student in Hongyi Honor College of Wuhan University, majoring in Computer Science</p>
   
         <h2>Recent News</h2>
         <ul class="news-list">
