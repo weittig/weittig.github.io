@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
   
         <h2>Biography</h2>
-        <p> A senior student in Hongyi Honor College of Wuhan University, majoring in Computer Science</p>
+        <p> A senior student in Hongyi Honor College of Wuhan University, currently majoring in Computer Science.</p>
   
         <h2>Recent News</h2>
         <ul class="news-list">
